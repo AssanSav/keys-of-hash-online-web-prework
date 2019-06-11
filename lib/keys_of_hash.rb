@@ -7,5 +7,5 @@ class Hash
 				end
 		}
 		return animals
-    end
-	end
+  end
+end

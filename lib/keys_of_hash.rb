@@ -9,5 +9,3 @@ class Hash
 		return animals
     end
 	end
-  end
-end

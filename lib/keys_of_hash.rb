@@ -1,7 +1,7 @@
 class Hash
   def keys_of(*arguments)
 	animals = []
-		arguments.each { |animal, place|
+		.each { |animal, place|
 			if arguments.include?(place)
 				animals << animal
 				end

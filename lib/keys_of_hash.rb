@@ -6,7 +6,7 @@ class Hash
 				animals << animal
 		}
 		return animals
-  end	  end
-end 	end
+    end
+	end
   end
 end

@@ -4,7 +4,6 @@ class Hash
 		self.each { |animal, place|
 			if arguments.include?(place)
 				animals << animal
-			end
 		}
 		return animals
   end	  end
